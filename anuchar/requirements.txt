@@ -1,0 +1,10 @@
+streamlit>=1.40.0
+requests
+pillow
+pypdf
+pdfplumber
+gtts
+duckduckgo-search
+fpdf2
+pandas
+plotly
